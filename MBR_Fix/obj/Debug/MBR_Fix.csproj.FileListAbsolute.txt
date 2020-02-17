@@ -1,0 +1,30 @@
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.exe.config
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.exe
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.pdb
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.csprojResolveAssemblyReference.cache
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.Properties.Resources.resources
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.csproj.GenerateResource.Cache
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.exe
+c:\users\jeff.magwaza\documents\visual studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.pdb
+C:\Users\jeff.magwaza\Documents\Visual Studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.MainApp.resources
+C:\Users\jeff.magwaza\Documents\Visual Studio 2013\Projects\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.FrmAbout.resources
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.exe.config
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.exe
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.pdb
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.exe
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\bin\Debug\MBR_Fix.pdb
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.FrmAbout.resources
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.MainApp.resources
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.Properties.Resources.resources
+C:\Users\Jeff\Documents\MBR_Fix\MBR_Fix\obj\Debug\MBR_Fix.csproj.GenerateResource.Cache
+C:\Development\MBR-recovery-tool\MBR_Fix\bin\Debug\MBR_Fix.exe.config
+C:\Development\MBR-recovery-tool\MBR_Fix\bin\Debug\MBR_Fix.exe
+C:\Development\MBR-recovery-tool\MBR_Fix\bin\Debug\MBR_Fix.pdb
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.csprojAssemblyReference.cache
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.FrmAbout.resources
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.MainApp.resources
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.Properties.Resources.resources
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.csproj.GenerateResource.cache
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.exe
+C:\Development\MBR-recovery-tool\MBR_Fix\obj\Debug\MBR_Fix.pdb
